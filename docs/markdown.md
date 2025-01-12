@@ -1,3 +1,9 @@
+---
+title: Just the docs exercice
+layout: default
+nav_order: 2
+---
+
 # User Guide for **NoteMaster**  
 
 NoteMaster is an application for taking and organizing notes. This guide explains how to use NoteMaster for your daily tasks.  
