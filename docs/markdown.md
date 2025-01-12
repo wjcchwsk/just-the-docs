@@ -62,6 +62,7 @@ NoteMaster is an application for taking and organizing notes. This guide explain
 
 ### Issue 3: Cannot Edit Notes  
 - Confirm that the note is not marked as "Read-Only."  
+- Confirm again.
 
 ---
 
