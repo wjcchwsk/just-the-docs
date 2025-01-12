@@ -17,3 +17,4 @@ Welcome to the User Guide for **NoteMaster**, the ultimate app for organizing yo
 4. [Sharing and Collaborating](sharing_collaborating)
 
 Feel free to explore each section to learn more!
+Try it out and start [here](creating_notes#starting-a-new-note)
