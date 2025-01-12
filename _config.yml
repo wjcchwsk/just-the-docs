@@ -9,5 +9,5 @@ aux_links:
 
 logo: "/images/notes.png"
 favicon_ico: "/images/notes.png"
-color_scheme: dark
+color_scheme: light
 heading_anchors: true
