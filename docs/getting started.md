@@ -1,5 +1,5 @@
 ---
-title: Getting starter
+title: Getting started
 layout: default
 parent: Just the docs exercice
 nav_order: 1
