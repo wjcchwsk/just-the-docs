@@ -12,8 +12,8 @@ Welcome to the User Guide for **NoteMaster**, the ultimate app for organizing yo
 ## Table of Contents
 
 1. [Getting Started](getting_started)
-2. [Creating and Managing Notes](creating_notes.md)
-3. [Organizing Notes](organizing_notes.md)
-4. [Sharing and Collaborating](sharing_collaborating.md)
+2. [Creating and Managing Notes](creating_notes)
+3. [Organizing Notes](organizing_notes)
+4. [Sharing and Collaborating](sharing_collaborating)
 
 Feel free to explore each section to learn more!
