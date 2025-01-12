@@ -9,3 +9,6 @@ aux_links:
 
 logo: "/images/notes.png"
 favicon_ico: "/images/notes.png"
+color_scheme: dark
+has_toc: false
+heading_anchors: true
